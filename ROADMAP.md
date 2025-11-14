@@ -1,0 +1,16 @@
+
+# Workflow Organizer Roadmap
+## Purpose
+Tie all tools together & maintain professional research structure.
+
+## All Phases
+- Maintain unified README templates.
+- Manage Portfolio Hub.
+- Store posters, papers, datasets.
+- Maintain ETHICS.md and DATA_SECURITY.md.
+
+## Phase 1 — Coordination Backbone
+- Draft cross-repo update checklist (PortfolioHub + README/ROADMAP sync).
+- Automate reminder hook that ties into `LAUNCHPAD/weekly-review.md`.
+- Document template locations for quick onboarding.
+
