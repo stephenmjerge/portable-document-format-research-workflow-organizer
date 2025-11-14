@@ -13,4 +13,5 @@ Tie all tools together & maintain professional research structure.
 - Draft cross-repo update checklist (PortfolioHub + README/ROADMAP sync).
 - Automate reminder hook that ties into `LAUNCHPAD/weekly-review.md`.
 - Document template locations for quick onboarding.
+- Provide a runnable version of the cross-repo checklist (scripts/run_cross_repo_checklist.py).
 

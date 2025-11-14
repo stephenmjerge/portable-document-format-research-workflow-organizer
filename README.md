@@ -14,3 +14,8 @@ Use `ROADMAP.md` for sequencing and keep the LAUNCHPAD folder handy for day-to-d
 LAUNCHPAD, PortfolioHub, and each repo's README/ROADMAP aligned before pushing to
 GitHub. Use it whenever you prep a public release.
 
+## Scripts
+
+Run `scripts/run_cross_repo_checklist.py` to perform a dry-run of the checklist
+and confirm all planning docs exist before committing changes.
+
